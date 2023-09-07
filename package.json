@@ -1,0 +1,14 @@
+{
+  "name": "@qimijoy/browserslist-configs",
+  "version": "1.0.0",
+  "description": "My personal Browserslist configurations",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/qimijoy/browserslist-configs.git"
+  },
+  "author": "qimijoy",
+  "license": "ISC",
+  "publishConfig": {
+    "access": "public"
+  }
+}
