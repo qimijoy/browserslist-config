@@ -5,13 +5,13 @@ A package with browserslist configurations. The goal is to unify browserslist co
 1. Install package via npm:
 
 ```
-npm i --save-dev @qimijoy/browserslist-configs
+npm i --save-dev @qimijoy/browserslist-config
 ```
 
 2. Add the required configuration in **.browserslistrc** file in your project
 
 ```
-extends @qimijoy/browserslist-configs/configs/<file-name>
+extends @qimijoy/browserslist-config/configs/<file-name>
 ```
 
 ## Adding new configurations
