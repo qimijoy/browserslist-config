@@ -1,11 +1,11 @@
-# Description
+# Browserslist Config
 A package with browserslist configurations. The goal is to unify browserslist configurations for my projects.
 
 ## Usage
 1. Install package via npm:
 
 ```
-npm i --save-dev @qimijoy/browserslist-config
+npm i -D @qimijoy/browserslist-config
 ```
 
 2. Add the required configuration in **.browserslistrc** file in your project
